@@ -1,5 +1,5 @@
 <svg width="84" height="84" viewBox="0 0 84 84" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g clip-path="url(#clip0_982_84240)" filter="url(#filter0_dd_982_84240)">
+<g filter="url(#filter0_dd_982_84240)">
 <path d="M42 76.1328C61.8823 76.1328 78 60.0151 78 40.1328C78 20.2506 61.8823 4.13281 42 4.13281C22.1177 4.13281 6 20.2506 6 40.1328C6 60.0151 22.1177 76.1328 42 76.1328Z" fill="#F0F0F0" style="fill:#F0F0F0;fill:color(display-p3 0.9412 0.9412 0.9412);fill-opacity:1;"/>
 <path d="M54.5277 40.133C54.5277 43.2635 48.9216 51.0895 42.006 51.0895C35.0905 51.0895 29.4844 43.2635 29.4844 40.133C29.4844 33.2173 35.0905 27.6113 42.006 27.6113C48.9216 27.6113 54.5277 33.2173 54.5277 40.133Z" fill="#D80027" style="fill:#D80027;fill:color(display-p3 0.8471 0.0000 0.1529);fill-opacity:1;"/>
 <path d="M54.5277 40.1309C54.5277 47.0465 48.9216 52.6525 42.006 52.6525C35.0905 52.6525 29.4844 47.0465 29.4844 40.1309" fill="#0052B4" style="fill:#0052B4;fill:color(display-p3 0.0000 0.3216 0.7059);fill-opacity:1;"/>
@@ -37,8 +37,5 @@
 <feBlend mode="normal" in2="effect1_dropShadow_982_84240" result="effect2_dropShadow_982_84240"/>
 <feBlend mode="normal" in="SourceGraphic" in2="effect2_dropShadow_982_84240" result="shape"/>
 </filter>
-<clipPath id="clip0_982_84240">
-<rect width="72" height="72" fill="white" style="fill:white;fill-opacity:1;" transform="translate(6 4.13281)"/>
-</clipPath>
 </defs>
 </svg>

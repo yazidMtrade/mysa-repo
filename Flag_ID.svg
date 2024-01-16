@@ -1,5 +1,5 @@
 <svg width="84" height="84" viewBox="0 0 84 84" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g clip-path="url(#clip0_982_84252)" filter="url(#filter0_dd_982_84252)">
+<g filter="url(#filter0_dd_982_84252)">
 <path d="M42 76.1328C61.8823 76.1328 78 60.0151 78 40.1328C78 20.2506 61.8823 4.13281 42 4.13281C22.1177 4.13281 6 20.2506 6 40.1328C6 60.0151 22.1177 76.1328 42 76.1328Z" fill="#F0F0F0" style="fill:#F0F0F0;fill:color(display-p3 0.9412 0.9412 0.9412);fill-opacity:1;"/>
 <path d="M6 40.1328C6 20.2507 22.1179 4.13281 42 4.13281C61.8821 4.13281 78 20.2507 78 40.1328" fill="#A2001D" style="fill:#A2001D;fill:color(display-p3 0.6353 0.0000 0.1137);fill-opacity:1;"/>
 </g>
@@ -18,8 +18,5 @@
 <feBlend mode="normal" in2="effect1_dropShadow_982_84252" result="effect2_dropShadow_982_84252"/>
 <feBlend mode="normal" in="SourceGraphic" in2="effect2_dropShadow_982_84252" result="shape"/>
 </filter>
-<clipPath id="clip0_982_84252">
-<rect width="72" height="72" fill="white" style="fill:white;fill-opacity:1;" transform="translate(6 4.13281)"/>
-</clipPath>
 </defs>
 </svg>
